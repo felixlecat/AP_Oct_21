@@ -1,2 +1,4 @@
 This is the readme file for the tutorial repositary.
-Change added in main branch.
+A second line is inserted into the readme file.
+
+Change added in dazzling_feature branch to provoke conflict.
